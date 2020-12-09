@@ -1,7 +1,7 @@
 # IEEE_34_Node_Test_Feeder
 IEEE Distribution Power System Simulation in MATLAB
 
-This project is for running the Simulink IEEE 34-Node Test Feeder system model on MATLAB.
+This project is for running the Simulink IEEE 34-Node Test Feeder (or IEEE 34-Bus) system model on MATLAB.
 
 All the parameters are strictly according to IEEE-PES https://site.ieee.org/pes-testfeeders/resources/
 
